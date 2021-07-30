@@ -62,7 +62,7 @@ def main():
     print('''
 
 
-                            Bienvenido a Pomodoro Terminal by @notalion
+                            Bienvenido a Pomodoro Terminal by @AngelLeon
 
     Este es un programa que te ayuda a estudiar, 
     La Técnica Pomodoro es un método de gestión del tiempo que puede ayudar a que tu productividad sea mayor
