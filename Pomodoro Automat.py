@@ -5,7 +5,7 @@
 import winsound
 import time
 
-tiempo = 5*60
+tiempo = 10*60
 Flag = False
 
 
@@ -67,7 +67,7 @@ def main():
     Este es un programa que te ayuda a estudiar, 
     La Técnica Pomodoro es un método de gestión del tiempo que puede ayudar a que tu productividad sea mayor
 
-    Se iniciara el conteo a 5 minutos
+    Se iniciara el conteo a 10 minutos
 
     ''')
     Conteo(tiempo)
